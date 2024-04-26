@@ -5,19 +5,13 @@ ByPassApp is a lightweight Application designed to help you bypass the restricti
 
 ## How to Use
 
-1. **Copy Text**: Highlight the desired text and press `Ctrl + C` to copy it to the clipboard.
-
-2. **Paste Text**: Copy the desired text and press `Ctrl + Alt + F`. The text will be pasted after a 5-second delay, precisely where your cursor is located.
-
-3. **Open Microsoft Edge**: Press `Ctrl + Alt + T` to swiftly launch Microsoft Edge.
-
-4. **Switch Desktop**: Press `Ctrl + W + Right Arrow` to switch to the next desktop and `Ctrl + W + Left Arrow` to switch to the previous desktop.
-
-5. **Minimize/Restore Window**: Press `Ctrl + Alt + M` to switch between minimizing and restoring the current window. (Note: This feature is being improved)
-
-6. **Set Microsoft Edge to Topmost**: Press `Ctrl + Alt + O` to elevate the Microsoft Edge window above all others.
-
-7. **Stop the Application**: Press `Esc` to gracefully exit the application.
+# 1. **Copy Text**: Highlight the desired text
+# 2. **Paste Text**: Copy the desired text
+# 3. **Open Microsoft Edge**
+# 4. **Switch Desktop**
+# 5. **Minimize/Restore Window**
+# 6. **Set Microsoft Edge to Topmost**
+# 7. **Stop the Application**
 
 ## Installation
 
@@ -28,14 +22,15 @@ ByPassApp is a lightweight Application designed to help you bypass the restricti
 
 ## Hotkeys
 
-- `Ctrl + C`: Copy text. (Note: This feature may not work in some cases).
+- `Ctrl + C` or `Ctrl + Alt + C`: Copy text. (Note: This feature may not work in some cases)
 - `Ctrl + Alt + F`: Paste copied text.
-- `Ctrl + Alt + T`: Open Microsoft Edge.
-- `Ctrl + W + Right Arrow`: Switch to the next desktop.
-- `Ctrl + W + Left Arrow`: Switch to the previous desktop.
+- `Ctrl + Alt + T`: Open Microsoft Edge browser and set it to topmost.
 - `Ctrl + Alt + M`: Switch between minimizing and restoring the window. (Note: This feature is being improved)
-- `Ctrl + Alt + O`: Bring the Microsoft Edge window to the front.
+- `Ctrl + Alt + G`: Switch between desktops. (Note: This feature may not work in some cases)
+- `Win + Ctrl + Right Arrow`: Switch to the next desktop. (Note: This feature may not work in some cases)
+- `Win + Ctrl + Left Arrow`: Switch to the previous desktop. (Note: This feature may not work in some cases)
 - `Esc`: Terminate the application.
+
 
 ## Support the Developer
 
