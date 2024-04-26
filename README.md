@@ -3,7 +3,7 @@
 ByPassApp is a lightweight Application designed to help you bypass the restrictions.
 
 
-## How to Use
+## Features
 
 1. **Copy Text**: Highlight the desired text
 2. **Paste Text**: Copy the desired text
