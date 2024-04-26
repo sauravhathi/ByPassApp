@@ -5,13 +5,13 @@ ByPassApp is a lightweight Application designed to help you bypass the restricti
 
 ## How to Use
 
-# 1. **Copy Text**: Highlight the desired text
-# 2. **Paste Text**: Copy the desired text
-# 3. **Open Microsoft Edge**
-# 4. **Switch Desktop**
-# 5. **Minimize/Restore Window**
-# 6. **Set Microsoft Edge to Topmost**
-# 7. **Stop the Application**
+1. **Copy Text**: Highlight the desired text
+2. **Paste Text**: Copy the desired text
+3. **Open Microsoft Edge**
+4. **Switch Desktop**
+5. **Minimize/Restore Window**
+6. **Set Microsoft Edge to Topmost**
+7. **Stop the Application**
 
 ## Installation
 
@@ -21,6 +21,9 @@ ByPassApp is a lightweight Application designed to help you bypass the restricti
 
 3. **Run**: Start the application by executing the `ByPassApp_setup` file.
 
+<img width="50%" src="https://github.com/sauravhathi/ByPassApp/assets/61316762/8f5c7b18-bb6b-4d71-92cb-ca799b8ca171">
+
+<img width="50%" src="https://github.com/sauravhathi/ByPassApp/assets/61316762/f1513c91-e4d2-4967-812b-a42f192516a2"/>
 
 ## Hotkeys
 
