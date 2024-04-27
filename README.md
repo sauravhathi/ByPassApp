@@ -2,6 +2,9 @@
 
 ByPassApp is a lightweight Application designed to help you bypass the restrictions.
 
+## GPT Alternative
+
+   https://gemini-pro-vision-palm.vercel.app/
 
 ## Features
 
